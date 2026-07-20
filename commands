@@ -1,0 +1,14 @@
+# 1. Initialize Git in your project folder
+git init
+
+# 2. Add remote repository (replace with your repo URL)
+git remote add origin https://github.com/your-username/exp1.git
+
+# 3. Stage all files
+git add .
+
+# 4. Commit with a message
+git commit -m "First commit"
+
+# 5. Push to main branch
+git push -u origin main
